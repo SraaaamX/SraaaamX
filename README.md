@@ -1,78 +1,84 @@
-# 👋 À propos de moi
+<div align="left">
 
-Je suis Jules LARUE, développeur web fullstack passionné par la création d'expériences numériques innovantes. Mon objectif est de transformer des concepts en solutions web performantes et élégantes, en accordant une attention particulière à l'expérience utilisateur et aux bonnes pratiques de développement.
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=FFFFFF&left=true&vleft=true&random=false&width=600&lines=Salut%2C+je+suis+Jules+LARUE+%F0%9F%91%8B;D%C3%A9veloppeur+Full+Stack+Passionn%C3%A9)](https://git.io/typing-svg)
 
-## 🎯 Expertise
-- Développement front-end et back-end
-- Architecture de solutions web modernes
-- Conception d'interfaces utilisateur intuitives
-- Optimisation des performances
+[![Vues](https://komarev.com/ghpvc/?username=SraaaamX&label=Vues%20du%20profil&color=0e75b6&style=flat)](https://github.com/SraaaamX)
+
+</div>
+
+## 💫 À propos de moi
+
+Je suis passionné par le développement web et la création d'expériences numériques innovantes. Mon objectif est de transformer des concepts en solutions web performantes et élégantes, en accordant une attention particulière à l'expérience utilisateur et aux bonnes pratiques de développement.
 
 ## 🛠️ Stack Technique
 
-### Front-end
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<div align="left">
 
-### Frameworks & Bibliothèques
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+### 🎨 Front-end
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/SraaaamX)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/SraaaamX)
+[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://github.com/SraaaamX)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/SraaaamX)
 
-### Back-end & Base de données
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### ⚡ Frameworks & Bibliothèques
+[![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://github.com/SraaaamX)
+[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/SraaaamX)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/SraaaamX)
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://github.com/SraaaamX)
+[![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://github.com/SraaaamX)
+[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/SraaaamX)
 
-### Outils
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
+### 🔧 Back-end & Base de données
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://github.com/SraaaamX)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/SraaaamX)
+[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/SraaaamX)
 
-### Design
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+### 🛠️ Outils
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SraaaamX)
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/SraaaamX)
+[![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/SraaaamX)
 
-## 📈 Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SraaaamX/SraaaamX/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SraaaamX/SraaaamX/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SraaaamX/SraaaamX/output/github-contribution-grid-snake.svg">
-</picture>
+### 🎨 Design
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/SraaaamX)
+[![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)](https://github.com/SraaaamX)
 
-_Snake game créé avec [GitHub Snake](https://github.com/Platane/snk) - Jouer avec mes contributions!_
+</div>
 
-## 📈 Statistiques GitHub
+## 📊 Statistiques GitHub
 
-<div align="center">
+<div align="left">
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=SraaaamX&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=SraaaamX&theme=gruvbox&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SraaaamX&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SraaaamX&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 ## 🏆 Trophées GitHub
-![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=SraaaamX&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+<div align="left">
 
-## 📫 Contact
+![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=SraaaamX&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jules-larue)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SramX#2350)
+</div>
+
+## 🤝 Me Contacter
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/jules-larue)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/SramX#2350)
+
+</div>
 
 ---
-[![Compteur de visites](https://visitcount.itsvg.in/api?id=SraaaamX&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="left">
+  
+[![](https://visitcount.itsvg.in/api?id=SraaaamX&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+
