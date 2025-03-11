@@ -1,6 +1,6 @@
 <div align="left">
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=FFFFFF&left=true&vleft=true&random=false&width=600&lines=Salut%2C+je+suis+Jules+LARUE+%F0%9F%91%8B;D%C3%A9veloppeur+Full+Stack+Passionn%C3%A9)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=D7B58F&left=true&vleft=true&random=false&width=600&lines=Salut%2C+je+suis+Jules+LARUE+%F0%9F%91%8B;D%C3%A9veloppeur+Full+Stack+Passionn%C3%A9)](https://git.io/typing-svg)
 
 [![Vues](https://komarev.com/ghpvc/?username=SraaaamX&label=Vues%20du%20profil&color=0e75b6&style=flat)](https://github.com/SraaaamX)
 
@@ -74,5 +74,6 @@ Je suis passionné par le développement web et la création d'expériences num�
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
 
 
