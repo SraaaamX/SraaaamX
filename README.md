@@ -40,7 +40,7 @@ Je suis passionné par le développement web et la création d'expériences num�
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/SraaaamX)
 
 ### 🎨 Design
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/SraaaamX
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/SraaaamX)
 
 </div>
 
