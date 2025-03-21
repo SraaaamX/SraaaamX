@@ -34,11 +34,14 @@ Je suis passionné par le développement web et la création d'expériences num�
 ### 📚 CMS
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/SraaaamX)
 
+### 🤖 Langages Divers
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/SraaaamX)
+
 ### Versioning & Déploiement
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/SraaaamX)
 
 ### 🎨 Design
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/SraaaamX)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/SraaaamX
 
 </div>
 
