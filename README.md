@@ -22,7 +22,7 @@ I am passionate about web development and creating innovative digital experience
 
 ### 🔧 Back-end & Database
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://github.com/SraaaamX)
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/SraaaamX)
+[![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/SraaaamX)
 
 ### ⚡ Frameworks & Libraries
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/SraaaamX)
