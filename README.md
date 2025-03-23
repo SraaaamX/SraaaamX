@@ -52,13 +52,6 @@ I am passionate about web development and creating innovative digital experience
 
 </div>
 
-## 🏆 GitHub Trophies
-<div align="left">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SraaaamX&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
 ## 🤝 Contact Me
 
 <div align="left">
