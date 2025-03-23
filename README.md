@@ -1,16 +1,16 @@
 <div align="left">
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=D7B58F&left=true&vleft=true&random=false&width=600&lines=Salut%2C+je+suis+Jules+LARUE+%F0%9F%91%8B;D%C3%A9veloppeur+Full+Stack+Passionn%C3%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=D7B58F&left=true&vleft=true&random=false&width=600&lines=Hi%2C+I'm+Jules+LARUE+%F0%9F%91%8B;Passionate+Web+Developer+Full+Stack)](https://git.io/typing-svg)
 
-[![Vues](https://komarev.com/ghpvc/?username=SraaaamX&label=Vues%20du%20profil&color=0e75b6&style=flat)](https://github.com/SraaaamX)
+[![Views](https://komarev.com/ghpvc/?username=SraaaamX&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/SraaaamX)
 
 </div>
 
-## 💫 À propos de moi
+## 💫 About Me
 
-Je suis passionné par le développement web et la création d'expériences numériques innovantes. Mon objectif est de transformer des concepts en solutions web performantes et élégantes, en accordant une attention particulière à l'expérience utilisateur et aux bonnes pratiques de développement.
+I am passionate about web development and creating innovative digital experiences. My goal is to transform concepts into efficient and elegant web solutions, with a particular focus on user experience and development best practices.
 
-## 🛠️ Stack Technique
+## 🛠️ Technical Stack
 
 <div align="left">
 
@@ -20,11 +20,11 @@ Je suis passionné par le développement web et la création d'expériences num�
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://github.com/SraaaamX)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/SraaaamX)
 
-### 🔧 Back-end & Base de données
+### 🔧 Back-end & Database
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://github.com/SraaaamX)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/SraaaamX)
 
-### ⚡ Frameworks & Bibliothèques
+### ⚡ Frameworks & Libraries
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/SraaaamX)
 [![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://github.com/SraaaamX)
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/SraaaamX)
@@ -33,10 +33,10 @@ Je suis passionné par le développement web et la création d'expériences num�
 ### 📚 CMS
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/SraaaamX)
 
-### 🤖 Langages Divers
+### 🤖 Other Languages
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/SraaaamX)
 
-### Versioning & Déploiement
+### Version Control & Deployment
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/SraaaamX)
 
 ### 🎨 Design
@@ -44,7 +44,7 @@ Je suis passionné par le développement web et la création d'expériences num�
 
 </div>
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Statistics
 
 <div align="left">
 
@@ -52,14 +52,14 @@ Je suis passionné par le développement web et la création d'expériences num�
 
 </div>
 
-## 🏆 Trophées GitHub
+## 🏆 GitHub Trophies
 <div align="left">
 
-![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=SraaaamX&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SraaaamX&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
-## 🤝 Me Contacter
+## 🤝 Contact Me
 
 <div align="left">
 
