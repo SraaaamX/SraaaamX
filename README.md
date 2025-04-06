@@ -1,3 +1,5 @@
+![Banner](img/eng_banner.png)
+
 <div align="left">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=D7B58F&left=true&vleft=true&random=false&width=600&lines=Hi%2C+I'm+Jules+LARUE+%F0%9F%91%8B;Passionate+Web+Developer+Full+Stack)](https://git.io/typing-svg)
