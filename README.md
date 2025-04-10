@@ -2,7 +2,7 @@
 
 <div align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=D7B58F&left=true&vleft=true&random=false&width=600&lines=Hi%2C+I'm+Jules+LARUE+%F0%9F%91%8B;Passionate+Web+Developer+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=D7B58F&left=true&vleft=true&random=false&width=600&lines=Hi%2C+I'm+Jules+LARUE+%F0%9F%91%8B;Passionate+FullStack+WEB+Developer)](https://git.io/typing-svg)
 
 [![Views](https://komarev.com/ghpvc/?username=SraaaamX&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/SraaaamX)
 
