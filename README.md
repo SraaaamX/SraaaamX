@@ -43,6 +43,11 @@ I am passionate about web development and creating innovative digital experience
 
 ### 🚀 Version Control & Deployment
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/SraaaamX)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/SraaaamX)
+
+### 🖥️ Operating Systems
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/SraaaamX)
+[![Linux / WSL](https://img.shields.io/badge/Linux/WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/SraaaamX)
 
 </div>
 
